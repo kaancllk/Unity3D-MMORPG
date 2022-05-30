@@ -1,0 +1,4 @@
+repository "Unity3DMMORPG@Mehmet_Kaan_elik@cloud"
+  path "/"
+    br "/main"
+    co "/main"
